@@ -12,3 +12,16 @@ the Yelp API.
 
 As a user, I should be able to sort through restaurants using a filter.
 
+[Wireframes](wireframes/ravenous.PNG) are supplied.
+
+## Technologies
+
+Uses HTML5, CSS3, JavaScript and React.
+
+## Deployment
+
+On [GitHub Pages](https://derektypist.github.io/ravenous).
+
+## Acknowledgements
+
+Codecademy for the help in this project.
