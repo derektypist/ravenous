@@ -1,7 +1,7 @@
 const apiKey = "https://gitpod.io/#YELP_API_KEY/https://github.com/derektypist/ravenous";
 
 const Yelp = {
-    searchYelp(term, location, sortBy) {
+    search(term, location, sortBy) {
         return fetch(`https://cors-anywhere.herokuapp.com/https://api.yelp.com/v3/businesses/search?term=${term}&location=${location}&sort_by=${sortBy}`,
             {
                 headers: {
